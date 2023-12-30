@@ -50,3 +50,29 @@ tJ/<@https://www.youtube.com/s/desktop/842f5576/jsbin/desktop_polymer.vflset/des
 
 1700650049405	Marionette	INFO	Stopped listening on port 64436
 Dynamically enable window occlusion 1
+1703662354635	geckodriver	INFO	Listening on 127.0.0.1:59505
+1703662357704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rohit\\AppData\\Local\\Temp\\rust_mozprofileTfmMJR"
+1703662375653	geckodriver	INFO	Listening on 127.0.0.1:59553
+1703662378708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rohit\\AppData\\Local\\Temp\\rust_mozprofileO3PC6Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703662378944	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703662379019	Marionette	INFO	Listening on port 59561
+WebDriver BiDi listening on ws://127.0.0.1:59554
+Read port: 59561
+1703662379139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59554/devtools/browser/08fd9a40-e267-4c98-8dad-6ca2eb6449f4
+1703662408977	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript warning: https://www.youtube.com/s/player/da154528/player_ias.vflset/en_US/base.js, line 2377: Script terminated by timeout at:
+bF@https://www.youtube.com/s/player/da154528/player_ias.vflset/en_US/base.js:2377:9
+Bsa.prototype.resolve@https://www.youtube.com/s/player/da154528/player_ias.vflset/en_US/base.js:8734:58
+KH@https://www.youtube.com/s/player/da154528/player_ias.vflset/en_US/base.js:2780:160
+g.OB/<@https://www.youtube.com/s/player/da154528/player_ias.vflset/en_US/base.js:1921:65
+cI@https://www.youtube.com/s/player/da154528/player_ias.vflset/en_US/base.js:2813:35
+@https://www.youtube.com/:15:496
+
+1703662424633	Marionette	INFO	Stopped listening on port 59561
+Dynamically enable window occlusion 1
